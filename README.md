@@ -1,6 +1,5 @@
 <h1 align="center">Sou Daniel F.</h1>
 <h3 align="center">Estudante de programação</h3>
-<img aling="right" alt="gato" width="400" src="![c23d59fa1fccdced1ff033780d07a613](https://github.com/user-attachments/assets/3b9f063e-7eea-4b50-afa4-959f84fdd56a)">
 - 👨‍🎓 Estudando no **Cedup**
 
 - 🌱 Estou aprendendo as seguintes linguagens **Java e Portugol**
