@@ -2,8 +2,6 @@
 <h3 align="center">Estudante de programação</h3>
 - 👨‍🎓 Estudante no Cedup Abilio Paulo
 
-- 🌱 Estou aprendendo as seguintes linguagens **Java e Portugol**
-
 - 📖 Pretendo sair de **Informatica**
 
 - 💬 Pode me chamar se precissar **no meu email**
