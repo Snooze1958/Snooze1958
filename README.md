@@ -1,6 +1,6 @@
 <h1 align="center">Sou Daniel F.</h1>
 <h3 align="center">Estudante de programação</h3>
-- 👨‍🎓 Estudando no **Cedup**
+- 👨‍🎓 Estudante no Cedup Abilio Paulo
 
 - 🌱 Estou aprendendo as seguintes linguagens **Java e Portugol**
 
