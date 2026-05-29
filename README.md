@@ -8,7 +8,7 @@
 
 - 💬 Pode me chamar se precissar **no meu email**
 
-- 📫 Como tu pode se comunicar comigo **daniel.apolinario.criciuma@gmail.com**
+- 📫 **daniel.apolinario.criciuma@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
