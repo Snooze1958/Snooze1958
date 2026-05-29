@@ -4,15 +4,12 @@
 
 - 🌱 Estou aprendendo as seguintes linguagens **Java e Portugol**
 
-- 📖 Pretendo continuar em **Informatica**
-
-- 🤝 Procuro ajudar **em projetos**
+- 📖 Pretendo sair de **Informatica**
 
 - 💬 Pode me chamar se precissar **no meu email**
 
 - 📫 Como tu pode se comunicar comigo **daniel.apolinario.criciuma@gmail.com**
 
-- ⚡ Curiosidade **NÃO SABO ESCREVER SERTO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
