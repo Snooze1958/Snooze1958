@@ -13,7 +13,7 @@ Estudante de Programação
 
 ---
 
-<img align="right" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyeG51emM0eW95eml6NmpkcDZlcDNiYTlhZzR1aGowOTRsOHJ1MGhvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vP5gXvSXJ2olG/giphy.gif">
+
 
 ###  Sobre Mim
 
